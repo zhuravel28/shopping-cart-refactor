@@ -1,0 +1,12 @@
+{
+  "name": "shopping-cart-refactor",
+  "version": "1.0.0",
+  "description": "Refactoring legacy Shopping Cart Service with tests",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
